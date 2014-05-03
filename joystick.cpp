@@ -67,7 +67,7 @@ int main(int argc, char * argv[]) {
       // Open joystick
       joy = SDL_JoystickOpen(0);
 
-      testControllerclear(joy);
+      testController(joy);
 
       // Getting hung up after the printf's...
       if (joy) {
