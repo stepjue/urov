@@ -64,16 +64,15 @@ int main(int argc, char * argv[]) {
       // Open joystick
       joy = SDL_JoystickOpen(0);
 
-      //testButtons(joy);
-      
-      //printf("opened: %d\n", SDL_JoystickOpened(0));
+      testButtons(joy);
 
+      // Getting hung up after the printf's...
       if (joy) {
          printf("Opened Joystick 0\n");
          printf("Name: %s\n", SDL_JoystickName(0));
          printf("Number of Axes: %d\n", SDL_JoystickNumAxes(joy));
          printf("Number of Buttons: %d\n", SDL_JoystickNumButtons(joy));
-         //printf("Number of Balls: %d\n", SDL_JoystickNumBalls(joy));
+         printf("Number of Balls: %d\n", SDL_JoystickNumBalls(joy));
 
          //SDL_JoystickEventState(SDL_ENABLE);
          int socket_num;         //socket descriptor
