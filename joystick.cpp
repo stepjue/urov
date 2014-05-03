@@ -41,11 +41,11 @@ void testController(SDL_Joystick *joy) {
    while(1)
    {
       SDL_JoystickUpdate();
-         printf("Buttons: ");
+      printf("Buttons: ");
       for(int i = 0; i < 20; i++) {
          printf("%d ", SDL_JoystickGetButton(joy, i));
       }
-
+      printf("Joysticks: ");
       printf("%d ", SDL_JoystickGetAxis(joy, 1));
       printf("%d ", SDL_JoystickGetAxis(joy, 2));
       printf("\n");
