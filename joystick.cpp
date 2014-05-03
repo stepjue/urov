@@ -37,7 +37,7 @@ int tcp_listen(int server_socket, int back_log);
 // for the client side
 int tcp_send_setup(char *host_name, char *port);
 
-void testButtons(SDL_Joystick *joy) {
+void testController(SDL_Joystick *joy) {
    while(1)
    {
       SDL_JoystickUpdate();
@@ -45,6 +45,9 @@ void testButtons(SDL_Joystick *joy) {
       for(int i = 0; i < 20; i++) {
          printf("%d ", SDL_JoystickGetButton(joy, i));
       }
+
+      printf("%d ", SDL_JoystickGetAxis(joy, 1));
+      printf("%d ", SDL_JoystickGetAxis(joy, 2));
       printf("\n");
       usleep(10000);
    }
@@ -64,7 +67,7 @@ int main(int argc, char * argv[]) {
       // Open joystick
       joy = SDL_JoystickOpen(0);
 
-      testButtons(joy);
+      testControllerclear(joy);
 
       // Getting hung up after the printf's...
       if (joy) {
