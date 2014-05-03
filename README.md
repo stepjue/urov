@@ -18,4 +18,6 @@ To compile and run joystick.cpp on Linux and Mac, use these executables
     ./compile.sh
     ./run.sh
 
-To compile on Windows, use a compiler such as [MinGW](http://www.mingw.org/) or Visual Studio.
+To compile on Windows, use a compiler such as [MinGW](http://www.mingw.org/) or Visual Studio. Use these arguments when compiling:
+
+    gcc -o joystick joystick.cpp `sdl-config --cflags --libs`
