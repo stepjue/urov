@@ -1,0 +1,104 @@
+Checking for joysticks...
+Opened Joystick 0
+Name: Logitech Logitech Dual Action
+Number of Axes: 4
+Number of Buttons: 12
+Number of Balls: 0
+stuff
+Enter the data to send: Motor A: 84, Motor B: 147, Motor C: 224, Motor D: 96, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 67, Motor B: 67, Motor C: 63, Motor D: 63, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 173, Motor B: 57, Motor C: 0, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 154, Motor B: 227, Motor C: 196, Motor D: 178, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 49, Motor B: 177, Motor C: 180, Motor D: 68, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 82, Motor B: 55, Motor C: 16, Motor D: 109, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 181, Motor B: 68, Motor C: 80, Motor D: 173, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 68, Motor B: 168, Motor C: 202, Motor D: 115, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 61, Motor B: 161, Motor C: 120, Motor D: 120, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 127, Motor B: 127, Motor C: 78, Motor D: 123, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 127, Motor B: 127, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 127, Motor B: 127, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 123, Motor B: 130, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 127, Motor B: 127, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 120, Motor B: 133, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 123, Motor B: 130, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 120, Motor B: 133, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 121, Motor B: 132, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 123, Motor B: 130, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 121, Motor B: 132, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 118, Motor B: 135, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 119, Motor B: 134, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 118, Motor B: 135, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 127, Motor B: 127, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 125, Motor B: 128, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 127, Motor B: 127, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 123, Motor B: 130, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 127, Motor B: 127, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 127, Motor B: 127, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 127, Motor B: 127, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 127, Motor B: 127, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 126, Motor B: 127, Motor C: 127, Motor D: 127, Servo: 127, Claw: 127
+String sent: dsfg 
+Amount of data sent is: 6
+Motor A: 1

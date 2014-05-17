@@ -67,7 +67,7 @@ int main(int argc, char * argv[]) {
       // Open joystick
       joy = SDL_JoystickOpen(0);
 
-      testController(joy);
+      //testController(joy);
 
       // Getting hung up after the printf's...
       if (joy) {
@@ -89,6 +89,7 @@ int main(int argc, char * argv[]) {
             printf("usage: %s host-name port-number \n", argv[0]);
             exit(1);
          }
+	 printf("stuff\n");
          /* set up the socket for TCP transmission  */
          socket_num= tcp_send_setup(argv[1], argv[2]);
 
